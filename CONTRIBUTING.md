@@ -54,6 +54,10 @@ When submitting a pull request, please consider the following guidelines:
 
 Our code review guidelines are documented [here](https://audacia.co.uk/technical-blog/our-guidelines-for-code-review).
 
+### Recording Change History
+
+Before submitting a pull request, please ensure that the changes have been documented in the relevant `CHANGELOG.md`
+
 ## License
 
 By contributing to the Audacia project, you agree that your contributions will be licensed under the [MIT License](https://mit-license.org/).
