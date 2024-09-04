@@ -1,5 +1,6 @@
 | Action | Done? |
 | --- | --- |
+| CHANGLOG updated | ✔/❌ |
 | Code compiles and unit tests all pass locally | ✔/❌ |
 | Debug/console log code removed | ✔/❌ |
 | Commented out code removed | ✔/❌ |
