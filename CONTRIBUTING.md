@@ -58,6 +58,16 @@ Our code review guidelines are documented [here](https://audacia.co.uk/technical
 
 Before submitting a pull request, please ensure that the changes have been documented in the relevant `CHANGELOG.md`
 
+### Versioning
+
+We use a manual system where the branch is tagged and released under whatever version number has been entered in either the CSPROJ or package.json.
+Update version numbers according to the significance of the change being added (major, minor, patch, etc.).
+If you want to mark a version as `prerelease`, add `-prerelease` to the end of the version number (`1.0.1.1-prerelease` for instance). 
+
+Audacia libraries previously utilised a versioning system that would automatically iterate the patch numbers.
+This would happen in instances where neither the major or minor number had been altered.
+A package would be marked as prerelease based on the branch name (a name other than `main` or `master`).
+
 ## License
 
 By contributing to the Audacia project, you agree that your contributions will be licensed under the [MIT License](https://mit-license.org/).
