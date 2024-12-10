@@ -1,5 +1,5 @@
 ### Version changed and CHANGELOG updated
-- ✔ New version set in the project file(s) and version documented in the CHANGELOG
+- ✔ New version set in the project file(s) `.csproj` or `Directory.Build.props` and version documented in the CHANGELOG
 - ❌ New version is required but not set, or set but not documented in the CHANGELOG
 - ❎ No version change required
 
@@ -17,11 +17,6 @@
 - ✔ Documentation updated to reflect the changes made
 - ❌ Documentation needed but not written
 - ❎ Changes do not require documentation
-
-### Added/updated logging
-- ✔ Most/all changed code contains appropriate logging
-- ❌ Large portions of changed code contain no logging
-- ❎ No significant code changes
 
 ### Dependency licenses
 - ✔ Licenses of new/upgraded dependencies checked, with no copyleft dependencies introduced
