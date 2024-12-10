@@ -1,5 +1,5 @@
 ### Version changed and CHANGELOG updated
-- ✔ New version set in the project file(s) and version documented in the CHANGELOG
+- ✔ New version set in the project file(s) `.csproj` or `Directory.Build.props` and version documented in the CHANGELOG
 - ❌ New version is required but not set, or set but not documented in the CHANGELOG
 - ❎ No version change required
 
