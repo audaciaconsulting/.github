@@ -18,11 +18,6 @@
 - ❌ Documentation needed but not written
 - ❎ Changes do not require documentation
 
-### Added/updated logging
-- ✔ Most/all changed code contains appropriate logging
-- ❌ Large portions of changed code contain no logging
-- ❎ No significant code changes
-
 ### Dependency licenses
 - ✔ Licenses of new/upgraded dependencies checked, with no copyleft dependencies introduced
 - ❌ Licenses of new/upgraded dependencies have not been checked, or check with copyleft dependencies introduced
