@@ -12,11 +12,7 @@
 - ✔ Tests added/updated for all new and modified code
 - ❌ New or modified code not covered by tests
 - ❎ No code changed
-
-### README or other documentation updated
-- ✔ Documentation updated to reflect the changes made
-- ❌ Documentation needed but not written
-- ❎ Changes do not require documentation
+ation
 
 ### Added/updated logging
 - ✔ Most/all changed code contains appropriate logging
