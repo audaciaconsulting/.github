@@ -22,3 +22,8 @@
 - ✔ Licenses of new/upgraded dependencies checked, with no copyleft dependencies introduced
 - ❌ Licenses of new/upgraded dependencies have not been checked, or check with copyleft dependencies introduced
 - ❎ No new/upgraded dependencies
+
+### Work item linked
+- ✔ The Azure DevOps work item has been linked to the PR
+- ❌ The Azure DevOps work item has not been linked to the PR
+- ❎ No work item exists and none is needed
